@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **raimundonetoo/raimundonetoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=raimundonetoo&theme=dracula&show_icons=true&title_color=ffffff">
 
-### Olá, meu nome é {Raimundo Neto}!
+### Hi, my name is {Raimundo Neto}!
+#### I’m currently learning:
+<span> <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML5" width="3%" height-="2%"  /> </span>
+<span> <img src="https://github.com/user-attachments/assets/2d2895f8-8918-4743-a6b6-d23095120ace" alt="CSS3" width="3%" height-="2%" /> </span>
+<span> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/134097422/363208994-7852c373-1267-4425-8a1c-515cfaf453f7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240830T142818Z&X-Amz-Expires=300&X-Amz-Signature=ada931d60e3914de56cee0650b33e60005fe65feabe2aef721362e05f001fb80&X-Amz-SignedHeaders=host&actor_id=134097422&key_id=0&repo_id=849892496" alt="PHP" width="3%" height-="2%"  /></span> 
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p> Apredendo novas tecnologias  </p>
+
+
+
+
